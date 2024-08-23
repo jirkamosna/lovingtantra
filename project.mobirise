@@ -89,7 +89,8 @@
     "mbrsiteDomain": "odeq0nclwn",
     "usedWebp": false,
     "uniqCompNum": 26,
-    "versionPublish": "5.9.4"
+    "versionPublish": "5.9.4",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
