@@ -72,7 +72,7 @@
     "siteUrl": "https://lovingtantra.cz",
     "sitemapSwitcherAuto": "on",
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: all parts and pages \n\n\n",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -83,11 +83,11 @@
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "100",
-      "text": "Nevyužíváme cookies. Vůbec Vás tedy nesledujeme.",
+      "text": "Nevyužíváme cookies. Pouze Google Analytics - sledujeme rámcovou návštěvnost a strukturu návštěvníků. Osobní profily nevytváříme a nikoho nesledujeme.",
       "textButton": "Rozumím",
       "rejectText": "REJECT"
     },
-    "mbrsiteDomain": "opqo1qzk2y",
+    "mbrsiteDomain": "phhyhonkkz",
     "usedWebp": false,
     "uniqCompNum": 47,
     "versionPublish": "5.9.4",
